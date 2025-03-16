@@ -1,4 +1,4 @@
-![Dashboard Preview](https://github.com/favy-codez/US-police-shootings-analysis-2015-2020-/blob/main/Dashboard%202.png?raw=true)
+![Dashboard Preview](https://github.com/favy-codez/US-police-shootings-analysis-2015-2020-/blob/main/Dashboard%202.png)
 **US Police Shootings Analysis (2015-2020)**  
 This project examines fatal police encounters in the U.S. from 2015 to 2020. Using data from Kaggle, it analyzes trends by age, race, state, weapon type, and the influence of body cameras and fleeing incidents. The analysis offers key insights to better understand patterns in police shootings and supports informed discussions on law enforcement practices.  
 
